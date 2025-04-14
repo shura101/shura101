@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tuan Andre</h1>
+<h1 align="center">Hi there 👏</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Dark%20Lord%20of%20Code;Crypto%20Explorer;Anime%20Lover;Welcome%20to%20my%20realm...&center=true&size=22" />
 </p>
