@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/f9/27/81f9279d76bcb6a1e80db0c99b6ae7c2.gif" alt="Kawaii Anime Girl" width="300" />
+  <img src="https://i.waifu.pics/ODvLzWf.gif" alt="Kawaii Anime Girl" width="300" />
 </p>
 
 ---
