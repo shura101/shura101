@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/g8P4bZnZpVgAAAAC/anime-smile.gif" alt="Kawaii Anime Girl" width="300" />
+  <img src="https://imgur.com/NxjWrSr" alt="Kawaii Anime Girl" width="300" />
 </p>
 
 ---
