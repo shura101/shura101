@@ -7,17 +7,6 @@
   <img src="https://imgur.com/NxjWrSr.gif" alt="Kawaii Anime Girl" width="300" />
 </p>
 
----
-
-### About Me
-
-- 🔥 Dark Lord of Code & Mastermind behind **Kato Chan Bot**
-- 🧠 Currently learning: **Blockchain, Crypto, and Japanese**
-- ⚡ Love building bots for **Telegram** and exploring the **DeFi** world
-- 🖤 Secretly still have a soft spot for **Dek Rini**
-
----
-
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -40,7 +29,7 @@
 ### Let's Connect!
 
 <p align="center">
-  <a href="https://t.me/yourtelegramusername"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/j1nx404"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://github.com/shura101"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
